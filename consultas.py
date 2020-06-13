@@ -1,0 +1,2 @@
+todos_reg = "SELECT * FROM PRODUCTOS"
+total = "SELECT COUNT(*) FROM PRODUCTOS"
